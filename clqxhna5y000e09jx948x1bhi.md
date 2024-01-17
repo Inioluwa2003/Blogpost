@@ -76,7 +76,7 @@ There are different types of endpoints categorized based on their functionality 
 
 ## Resources in RESTful APIs
 
-**Resources** are key abstraction that represents any information that can be identified, named and manipulated. Examples of resources include user profiles, articles, and any other data entity that applications deal with. Resources can be identified by a distinct URI (Uniform Resource Identifier). They are usually in [JSON](https://www.json.org/json-en.html) or [XML](https://aws.amazon.com/what-is/xml/#:~:text=Extensible%20Markup%20Language%20(XML)%20is,implemented%20for%20structured%20data%20management.) formats, and each resource can be created, retrieved, updated, and deleted using standard HTTP methods.
+**Resources** are key abstractions that represent any information that can be identified, named, and manipulated. Examples of resources include user profiles, articles, and any other data entity that applications deal with. Resources can be identified by a distinct URI (Uniform Resource Identifier). They are usually in [JSON](https://www.json.org/json-en.html) or [XML](https://aws.amazon.com/what-is/xml/#:~:text=Extensible%20Markup%20Language%20(XML)%20is,implemented%20for%20structured%20data%20management.) formats, and each resource can be created, retrieved, updated, and deleted using standard HTTP methods.
 
 The foundation of building a RESTful architecture is identifying its resources. Some of the major guidelines for identifying resources in API design include:
 
