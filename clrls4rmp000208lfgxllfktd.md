@@ -1,6 +1,6 @@
 ---
 title: "Webhooks Beyond Notifications: Advanced Use Cases"
-seoTitle: "Webhooks Beyond Notifications: Advanced Use Cases and Integrations"
+seoTitle: "Webhooks Beyond Notifications: Advanced Use Cases"
 datePublished: Sat Jan 20 2024 08:00:10 GMT+0000 (Coordinated Universal Time)
 cuid: clrls4rmp000208lfgxllfktd
 slug: webhooks-beyond-notifications-advanced-use-cases
